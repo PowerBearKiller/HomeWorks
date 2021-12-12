@@ -1,0 +1,15 @@
+D:\CH\repos\HomeWork1\HomeWork1.1\bin\Debug\net6.0\HomeWork1.1.exe
+D:\CH\repos\HomeWork1\HomeWork1.1\bin\Debug\net6.0\HomeWork1.1.deps.json
+D:\CH\repos\HomeWork1\HomeWork1.1\bin\Debug\net6.0\HomeWork1.1.runtimeconfig.json
+D:\CH\repos\HomeWork1\HomeWork1.1\bin\Debug\net6.0\HomeWork1.1.dll
+D:\CH\repos\HomeWork1\HomeWork1.1\bin\Debug\net6.0\ref\HomeWork1.1.dll
+D:\CH\repos\HomeWork1\HomeWork1.1\bin\Debug\net6.0\HomeWork1.1.pdb
+D:\CH\repos\HomeWork1\HomeWork1.1\obj\Debug\net6.0\HomeWork1.1.csproj.AssemblyReference.cache
+D:\CH\repos\HomeWork1\HomeWork1.1\obj\Debug\net6.0\HomeWork1.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\CH\repos\HomeWork1\HomeWork1.1\obj\Debug\net6.0\HomeWork1.1.AssemblyInfoInputs.cache
+D:\CH\repos\HomeWork1\HomeWork1.1\obj\Debug\net6.0\HomeWork1.1.AssemblyInfo.cs
+D:\CH\repos\HomeWork1\HomeWork1.1\obj\Debug\net6.0\HomeWork1.1.csproj.CoreCompileInputs.cache
+D:\CH\repos\HomeWork1\HomeWork1.1\obj\Debug\net6.0\HomeWork1.1.dll
+D:\CH\repos\HomeWork1\HomeWork1.1\obj\Debug\net6.0\ref\HomeWork1.1.dll
+D:\CH\repos\HomeWork1\HomeWork1.1\obj\Debug\net6.0\HomeWork1.1.pdb
+D:\CH\repos\HomeWork1\HomeWork1.1\obj\Debug\net6.0\HomeWork1.1.genruntimeconfig.cache
