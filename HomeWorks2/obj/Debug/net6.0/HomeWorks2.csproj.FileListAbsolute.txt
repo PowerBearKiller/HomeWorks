@@ -1,0 +1,15 @@
+C:\Users\Владимир\source\repos\HomeWorks2\HomeWorks2\bin\Debug\net6.0\HomeWorks2.exe
+C:\Users\Владимир\source\repos\HomeWorks2\HomeWorks2\bin\Debug\net6.0\HomeWorks2.deps.json
+C:\Users\Владимир\source\repos\HomeWorks2\HomeWorks2\bin\Debug\net6.0\HomeWorks2.runtimeconfig.json
+C:\Users\Владимир\source\repos\HomeWorks2\HomeWorks2\bin\Debug\net6.0\HomeWorks2.dll
+C:\Users\Владимир\source\repos\HomeWorks2\HomeWorks2\bin\Debug\net6.0\ref\HomeWorks2.dll
+C:\Users\Владимир\source\repos\HomeWorks2\HomeWorks2\bin\Debug\net6.0\HomeWorks2.pdb
+C:\Users\Владимир\source\repos\HomeWorks2\HomeWorks2\obj\Debug\net6.0\HomeWorks2.csproj.AssemblyReference.cache
+C:\Users\Владимир\source\repos\HomeWorks2\HomeWorks2\obj\Debug\net6.0\HomeWorks2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владимир\source\repos\HomeWorks2\HomeWorks2\obj\Debug\net6.0\HomeWorks2.AssemblyInfoInputs.cache
+C:\Users\Владимир\source\repos\HomeWorks2\HomeWorks2\obj\Debug\net6.0\HomeWorks2.AssemblyInfo.cs
+C:\Users\Владимир\source\repos\HomeWorks2\HomeWorks2\obj\Debug\net6.0\HomeWorks2.csproj.CoreCompileInputs.cache
+C:\Users\Владимир\source\repos\HomeWorks2\HomeWorks2\obj\Debug\net6.0\HomeWorks2.dll
+C:\Users\Владимир\source\repos\HomeWorks2\HomeWorks2\obj\Debug\net6.0\ref\HomeWorks2.dll
+C:\Users\Владимир\source\repos\HomeWorks2\HomeWorks2\obj\Debug\net6.0\HomeWorks2.pdb
+C:\Users\Владимир\source\repos\HomeWorks2\HomeWorks2\obj\Debug\net6.0\HomeWorks2.genruntimeconfig.cache
