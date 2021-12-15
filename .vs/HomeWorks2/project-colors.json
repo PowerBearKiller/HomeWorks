@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "377d8954-404c-4767-a184-cf1dc326fe39": {
+      "ProjectGuid": "377d8954-404c-4767-a184-cf1dc326fe39",
+      "DisplayName": "HomeWork1",
+      "ColorIndex": 0
+    },
+    "521b941b-6cfc-4b80-8af8-3ae4f2ab853c": {
+      "ProjectGuid": "521b941b-6cfc-4b80-8af8-3ae4f2ab853c",
+      "DisplayName": "HomeWork2",
+      "ColorIndex": 1
+    },
+    "cb4e0e18-d8d1-49f0-982f-6a3c696c339e": {
+      "ProjectGuid": "cb4e0e18-d8d1-49f0-982f-6a3c696c339e",
+      "DisplayName": "HomeWork3",
+      "ColorIndex": 2
+    },
+    "0601d297-5e3c-47e5-8019-33c2171a8d22": {
+      "ProjectGuid": "0601d297-5e3c-47e5-8019-33c2171a8d22",
+      "DisplayName": "HomeWork4",
+      "ColorIndex": 3
+    },
+    "34b1f102-80f3-4c0e-8dc0-0e22f5f3a5bb": {
+      "ProjectGuid": "34b1f102-80f3-4c0e-8dc0-0e22f5f3a5bb",
+      "DisplayName": "HomeWork5",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "89cce36c-e998-4662-a53a-5b746509ea97": {
+      "ProjectGuid": "89cce36c-e998-4662-a53a-5b746509ea97",
+      "DisplayName": "HomeWork6",
+      "ColorIndex": 5
+    },
+    "9c3ce504-163a-4663-9af2-aa1f6e0a07da": {
+      "ProjectGuid": "9c3ce504-163a-4663-9af2-aa1f6e0a07da",
+      "DisplayName": "HomeWork7",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
