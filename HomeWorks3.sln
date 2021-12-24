@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork1", "HomeWork1\HomeWork1.csproj", "{00FA3A59-76D5-4B88-882C-ED323A1F45AD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HomeWork2", "HomeWork2\HomeWork2.csproj", "{97B8BF88-C11A-4637-B32F-C8074C2225EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork3", "HomeWork3\HomeWork3.csproj", "{9D97C895-C82D-4220-90BC-7C9A7BF91250}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00FA3A59-76D5-4B88-882C-ED323A1F45AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00FA3A59-76D5-4B88-882C-ED323A1F45AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00FA3A59-76D5-4B88-882C-ED323A1F45AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00FA3A59-76D5-4B88-882C-ED323A1F45AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97B8BF88-C11A-4637-B32F-C8074C2225EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97B8BF88-C11A-4637-B32F-C8074C2225EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97B8BF88-C11A-4637-B32F-C8074C2225EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97B8BF88-C11A-4637-B32F-C8074C2225EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D97C895-C82D-4220-90BC-7C9A7BF91250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D97C895-C82D-4220-90BC-7C9A7BF91250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D97C895-C82D-4220-90BC-7C9A7BF91250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D97C895-C82D-4220-90BC-7C9A7BF91250}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBE70EDE-B5D7-449E-8A7A-0391FE507C5B}
+	EndGlobalSection
+EndGlobal
